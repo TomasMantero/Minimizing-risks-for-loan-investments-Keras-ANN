@@ -1,0 +1,1 @@
+# Minimizing-risks-for-loan-investments-Keras-ANN
